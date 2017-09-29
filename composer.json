@@ -1,5 +1,5 @@
 {
-    "name": "Ne0bot/ffmpeg-php",
+    "name": "ne0bot/ffmpeg-php",
     "type": "library",
     "description": "PHP wrapper for FFmpeg application",
     "version": "2.9.0",
